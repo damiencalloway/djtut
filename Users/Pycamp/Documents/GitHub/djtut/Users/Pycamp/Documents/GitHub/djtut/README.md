@@ -1,4 +1,0 @@
-djtut
-=====
-
-Django Tutorial
